@@ -1,6 +1,7 @@
 public class Demo1
 {
   PSVM()
-    {
+    { 
+        SYOUT();
     }
 }
